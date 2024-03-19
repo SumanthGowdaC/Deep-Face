@@ -4,13 +4,7 @@ Perform facial analysis using DeepFace library to detect emotions and race of in
 
 ## Installation
 
-1. Clone the repository:
-
-    ```bash
-    git clone <repository_url>
-    ```
-
-2. Install dependencies:
+Install dependencies:
 
     ```bash
     pip install -r requirements.txt
